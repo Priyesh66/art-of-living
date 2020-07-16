@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762072168136",
+    "firebase_url": "https://artofliving-213dd.firebaseio.com",
+    "project_id": "artofliving-213dd",
+    "storage_bucket": "artofliving-213dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762072168136:android:dd0614d14e322d6e1a57fd",
+        "android_client_info": {
+          "package_name": "com.Artofliving.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762072168136-tdi4l8d8pvrrcguhqt4vle5jsn8tm4rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Artofliving.loginapp",
+            "certificate_hash": "d9c3dbae22ca3b981e0283375a033bdaf0ecbe3f"
+          }
+        },
+        {
+          "client_id": "762072168136-7s2amqqihi40qo2s2babm1n2oe055j4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5gr1Zvhh67_qX_1blBFzcUQnvyYBAFWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762072168136-7s2amqqihi40qo2s2babm1n2oe055j4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
